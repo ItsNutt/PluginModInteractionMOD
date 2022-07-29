@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "PluginModInteractionMOD",
+    "name": "PluginModInteractionMOD",
+    "description": "The Mod part of the Mod-Plugin Interaction Tutorial",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ItsNutt"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
